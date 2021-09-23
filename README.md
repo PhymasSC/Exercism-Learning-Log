@@ -29,16 +29,26 @@ This repository is created to track my learning progress, and I will constantly 
 	 - [High Score Board (Easy)](javascript/high-score-board)
  - Null and Undefined
 	 - [Amusement Park (Easy)](javascript/amusement-park)
+ - Errors
+	 - [Factory Sensors(Easy)](javascript/factory-sensor)
  - Type conversion
 	 - [Lucky Numbers (Easy)](javascript/lucky-numbers)
  - Functions
 	 - [Lasagna Master (Easy)](javascript/lasagna-master)
  - Closures
 	 - [Coordinate Transformation (Easy)](javascript/coordinate-transformation)
+ - Callbacks
+	 - [Fruit Picker (Easy)](javascript/fruit-picker)
  - Array Destructuring
 	 - [Elyses Destructured Enchantments (Easy)](javascript/elyses-destructured-enchantments)
  - Rest and Spread
 	 - [Elyses Destructured Enchantments (Easy)](javascript/elyses-destructured-enchantments)
+ - Array Analysis
+	 - [Elyses Analytic Enchantments (Easy)](javascript/elyses-analytic-enchantments)
+ - Array Loops
+	 - [Elyses Looping Enchantments(Easy)](javascript/elyses-looping-enchantments)
+ - Sets
+	 - [Ozan's Playlist (Easy)](javascript/ozans-playlist)
 
 More to come...
 ## Exercise profile
