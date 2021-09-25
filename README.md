@@ -3,6 +3,7 @@
 This repository is created to track my learning progress, and I will constantly update my solutions. Most of my solution done in modern ES6 JavaScript.
 ## Exercises
 
+### Learning Track
  - Basics
 	 - [Lucian's Luscious Lasagna (Learning exercise)](javascript/lasagna)
  - Numbers
@@ -51,6 +52,11 @@ This repository is created to track my learning progress, and I will constantly 
 	 - [Ozan's Playlist (Learning exercise)](javascript/ozans-playlist)
  - Promise
      - [Translation Service(Learning exercise)](javascript/translation-service)
+
+### Other exercises
+ - Easy
+	 - [Two-fer](javascript/two-fer)
+	 
 More to come...
 ## Exercise profile
 https://exercism.org/profiles/PhymasSC
