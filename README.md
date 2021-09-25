@@ -4,52 +4,53 @@ This repository is created to track my learning progress, and I will constantly 
 ## Exercises
 
  - Basics
-	 - [Lucian's Luscious Lasagna (Easy)](javascript/lasagna)
+	 - [Lucian's Luscious Lasagna (Learning exercise)](javascript/lasagna)
  - Numbers
-	 - [Freelancer Rates (Easy)](javascript/freelancer-rates)
+	 - [Freelancer Rates (Learning exercise)](javascript/freelancer-rates)
  - Strings
-	 - [Poetry Club Door Policy (Easy)](javascript/poetry-club-door-policy)
+	 - [Poetry Club Door Policy (Learning exercise)](javascript/poetry-club-door-policy)
  - Booleans
-	 - [Annalyn's Infiltration (Easy)](javascript/annalyns-infiltration)
+	 - [Annalyn's Infiltration (Learning exercise)](javascript/annalyns-infiltration)
  - Arrays
-	 - [Elyses Enchantments (Easy)](javascript/elyses-enchantments)
+	 - [Elyses Enchantments (Learning exercise)](javascript/elyses-enchantments)
  - Conditionals
-	 - [Vehicle Purchase (Easy)](javascript/vehicle-purchase)
+	 - [Vehicle Purchase (Learning exercise)](javascript/vehicle-purchase)
  - Comparison
-	 - [Vehicle Purchase (Easy)](javascript/vehicle-purchase)
+	 - [Vehicle Purchase (Learning exercise)](javascript/vehicle-purchase)
  - Increment/ Decrement
-	 - [Bird Watcher (Easy)](javascript/bird-watcher)
+	 - [Bird Watcher (Learning exercise)](javascript/bird-watcher)
  - For Loops
-	 - [Bird Watcher (Easy)](javascript/bird-watcher)
+	 - [Bird Watcher (Learning exercise)](javascript/bird-watcher)
  - While Loops
-	 - [Mixed Juices (Easy)](javascript/mixed-juices)
+	 - [Mixed Juices (Learning exercise)](javascript/mixed-juices)
  - Switch Statement
-	 - [Mixed Juices (Easy)](javascript/mixed-juices)
+	 - [Mixed Juices (Learning exercise)](javascript/mixed-juices)
  - Objects
-	 - [High Score Board (Easy)](javascript/high-score-board)
+	 - [High Score Board (Learning exercise)](javascript/high-score-board)
  - Null and Undefined
-	 - [Amusement Park (Easy)](javascript/amusement-park)
+	 - [Amusement Park (Learning exercise)](javascript/amusement-park)
  - Errors
-	 - [Factory Sensors(Easy)](javascript/factory-sensor)
+	 - [Factory Sensors(Learning exercise)](javascript/factory-sensor)
  - Type conversion
-	 - [Lucky Numbers (Easy)](javascript/lucky-numbers)
+	 - [Lucky Numbers (Learning exercise)](javascript/lucky-numbers)
  - Functions
-	 - [Lasagna Master (Easy)](javascript/lasagna-master)
+	 - [Lasagna Master (Learning exercise)](javascript/lasagna-master)
  - Closures
-	 - [Coordinate Transformation (Easy)](javascript/coordinate-transformation)
+	 - [Coordinate Transformation (Learning exercise)](javascript/coordinate-transformation)
  - Callbacks
-	 - [Fruit Picker (Easy)](javascript/fruit-picker)
+	 - [Fruit Picker (Learning exercise)](javascript/fruit-picker)
  - Array Destructuring
-	 - [Elyses Destructured Enchantments (Easy)](javascript/elyses-destructured-enchantments)
+	 - [Elyses Destructured Enchantments (Learning exercise)](javascript/elyses-destructured-enchantments)
  - Rest and Spread
-	 - [Elyses Destructured Enchantments (Easy)](javascript/elyses-destructured-enchantments)
+	 - [Elyses Destructured Enchantments (Learning exercise)](javascript/elyses-destructured-enchantments)
  - Array Analysis
-	 - [Elyses Analytic Enchantments (Easy)](javascript/elyses-analytic-enchantments)
+	 - [Elyses Analytic Enchantments (Learning exercise)](javascript/elyses-analytic-enchantments)
  - Array Loops
-	 - [Elyses Looping Enchantments(Easy)](javascript/elyses-looping-enchantments)
+	 - [Elyses Looping Enchantments(Learning exercise)](javascript/elyses-looping-enchantments)
  - Sets
-	 - [Ozan's Playlist (Easy)](javascript/ozans-playlist)
-
+	 - [Ozan's Playlist (Learning exercise)](javascript/ozans-playlist)
+ - Promise
+     - [Translation Service(Learning exercise)](javascript/translation-service)
 More to come...
 ## Exercise profile
 https://exercism.org/profiles/PhymasSC
