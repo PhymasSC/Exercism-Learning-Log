@@ -55,7 +55,9 @@ This repository is created to track my learning progress, and I will constantly 
 
 ### Other exercises
  - Easy
-	 - [Two-fer](javascript/two-fer)
+	 - [Two fer](javascript/two-fer)
+	 - [Resistor color](javascript/resistor-color)
+
 	 
 More to come...
 ## Exercise profile
