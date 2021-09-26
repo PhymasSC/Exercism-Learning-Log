@@ -55,9 +55,18 @@ This repository is created to track my learning progress, and I will constantly 
 
 ### Other exercises
  - Easy
-	 - [Two fer](javascript/two-fer)
-	 - [Resistor color](javascript/resistor-color)
-
+	 - [Two Fer](javascript/two-fer)
+	 - [Resistor Color](javascript/resistor-color)
+	 - [Resistor Color Duo](javascript/resistor-color-duo)
+	 - [Gigasecond](javascript/gigasecond)
+	 - [RNA Transcription](javascript/rna-transcription)
+	 - [Space Age](javascript/space-age)
+	 - [Pangram](javascript/pangram)
+	 - [Matrix](javascript/matrix)
+	 
+ - Medium
+	 - [Bob](javascript/bob)
+	 
 	 
 More to come...
 ## Exercise profile
