@@ -66,7 +66,8 @@ This repository is created to track my learning progress, and I will constantly 
 	 
  - Medium
 	 - [Bob](javascript/bob)
-	 
+	 - [Pascal Triangle](javascript/pascal-triangle)
+	 - [Linked List](javascript/linked-list)
 	 
 More to come...
 ## Exercise profile
