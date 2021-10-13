@@ -74,12 +74,17 @@ This repository is created to track my learning progress, and I will constantly 
 	 
 ### Java
 #### Learning Track
-- [Hello World](java\hello-world)
+- [Hello World](java/hello-world)
 - Basics
-	- [Cook Your Lasagna](java\lasagna)
+	- [Cook Your Lasagna](java/lasagna)
 - Strings
-	- [Log Levels](java\log-levels)
-
+	- [Log Levels](java/log-levels)
+- Numbers
+	- [Cars, Assemble!](java/cars-assemble)
+- Booleans
+	- [Annalyns Infiltration](java/annalyns-infiltration)
+- Conditional If
+	- [Play Your Cards!](java/blackjack)
 
 ## Exercise profile
 https://exercism.org/profiles/PhymasSC
