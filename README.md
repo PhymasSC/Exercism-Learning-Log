@@ -85,6 +85,15 @@ This repository is created to track my learning progress, and I will constantly 
 	- [Annalyns Infiltration](java/annalyns-infiltration)
 - Conditional If
 	- [Play Your Cards!](java/blackjack)
+- Arrays
+	- [Bird Watcher](java/bird-watcher)
+- For-Each Loops
+	- [Bird Watcher](java/bird-watcher)
+- For Loops
+	- [Bird Watcher](java/bird-watcher)
+- Chars
+	- [Squeaky Clean](java/squeaky-clean)
 
-## Exercise profile
+
+## Exercise profile   pp
 https://exercism.org/profiles/PhymasSC
