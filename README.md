@@ -93,7 +93,17 @@ This repository is created to track my learning progress, and I will constantly 
 	- [Bird Watcher](java/bird-watcher)
 - Chars
 	- [Squeaky Clean](java/squeaky-clean)
+- Lists
+	- [Karl's Languages](java/karls-languages)
+- Generic Types
+	- [Karl's Languages](java/karls-languages)
+- Classes
+	- [Elon's Toy Car](java/elons-toy-car)
+- Ternary Operator
+	- [Salary Calculator](java/salary-calculator)
+- Interfaces
+	- [Remote Control Competition](java/remote-control-competition)
 
 
-## Exercise profile   pp
+## Exercism profile
 https://exercism.org/profiles/PhymasSC
