@@ -8,51 +8,51 @@ This repository is created to track my learning progress, and I will constantly 
 ### JavaScript
 #### Learning Track
 - Basics
-	- [Lucian's Luscious Lasagna (Learning exercise)](javascript/lasagna)
+	- [Lucian's Luscious Lasagna](javascript/lasagna)
 - Numbers
-	- [Freelancer Rates (Learning exercise)](javascript/freelancer-rates)
+	- [Freelancer Rates](javascript/freelancer-rates)
 - Strings
-	- [Poetry Club Door Policy (Learning exercise)](javascript/poetry-club-door-policy)
+	- [Poetry Club Door Policy](javascript/poetry-club-door-policy)
 - Booleans
-	- [Annalyn's Infiltration (Learning exercise)](javascript/annalyns-infiltration)
+	- [Annalyn's Infiltration](javascript/annalyns-infiltration)
 - Arrays
-	- [Elyses Enchantments (Learning exercise)](javascript/elyses-enchantments)
+	- [Elyses Enchantments](javascript/elyses-enchantments)
 - Conditionals
-	- [Vehicle Purchase (Learning exercise)](javascript/vehicle-purchase)
+	- [Vehicle Purchase](javascript/vehicle-purchase)
 - Comparison
-	- [Vehicle Purchase (Learning exercise)](javascript/vehicle-purchase)
+	- [Vehicle Purchase](javascript/vehicle-purchase)
 - Increment/ Decrement
-	- [Bird Watcher (Learning exercise)](javascript/bird-watcher)
+	- [Bird Watcher](javascript/bird-watcher)
 - For Loops
-	- [Bird Watcher (Learning exercise)](javascript/bird-watcher)
+	- [Bird Watcher](javascript/bird-watcher)
 - While Loops
-	- [Mixed Juices (Learning exercise)](javascript/mixed-juices)
+	- [Mixed Juices](javascript/mixed-juices)
 - Switch Statement
-	- [Mixed Juices (Learning exercise)](javascript/mixed-juices)
+	- [Mixed Juices](javascript/mixed-juices)
 - Objects
-	- [High Score Board (Learning exercise)](javascript/high-score-board)
+	- [High Score Board](javascript/high-score-board)
 - Null and Undefined
-	- [Amusement Park (Learning exercise)](javascript/amusement-park)
+	- [Amusement Park](javascript/amusement-park)
 - Errors
 	- [Factory Sensors(Learning exercise)](javascript/factory-sensor)
 - Type conversion
-	- [Lucky Numbers (Learning exercise)](javascript/lucky-numbers)
+	- [Lucky Numbers](javascript/lucky-numbers)
 - Functions
-	- [Lasagna Master (Learning exercise)](javascript/lasagna-master)
+	- [Lasagna Master](javascript/lasagna-master)
 - Closures
-	- [Coordinate Transformation (Learning exercise)](javascript/coordinate-transformation)
+	- [Coordinate Transformation](javascript/coordinate-transformation)
 - Callbacks
-	- [Fruit Picker (Learning exercise)](javascript/fruit-picker)
+	- [Fruit Picker](javascript/fruit-picker)
 - Array Destructuring
-	- [Elyses Destructured Enchantments (Learning exercise)](javascript/elyses-destructured-enchantments)
+	- [Elyses Destructured Enchantments](javascript/elyses-destructured-enchantments)
 - Rest and Spread
-	- [Elyses Destructured Enchantments (Learning exercise)](javascript/elyses-destructured-enchantments)
+	- [Elyses Destructured Enchantments](javascript/elyses-destructured-enchantments)
 - Array Analysis
-	- [Elyses Analytic Enchantments (Learning exercise)](javascript/elyses-analytic-enchantments)
+	- [Elyses Analytic Enchantments](javascript/elyses-analytic-enchantments)
 - Array Loops
 	- [Elyses Looping Enchantments(Learning exercise)](javascript/elyses-looping-enchantments)
 - Sets
-	- [Ozan's Playlist (Learning exercise)](javascript/ozans-playlist)
+	- [Ozan's Playlist](javascript/ozans-playlist)
 - Promise
 	- [Translation Service(Learning exercise)](javascript/translation-service)
 
@@ -103,6 +103,16 @@ This repository is created to track my learning progress, and I will constantly 
 	- [Salary Calculator](java/salary-calculator)
 - Interfaces
 	- [Remote Control Competition](java/remote-control-competition)
+- Switch Statements
+	- [Football Match Reports](java/football-match-reports)
+- Constructors
+	- [Need for Speed](java/need_for-speed)
+- Inheritances 
+	- [Wizards and Warriors](java/wizards-and-warriors)
+
+#### Other exercises
+- Easy
+	- [Two Fer](java/two-fer)
 
 
 ## Exercism profile
